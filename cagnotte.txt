@@ -1,0 +1,3 @@
+Ici, votre modification consiste à changer la couleur d’une balise. Je vous conseille donc de commenter : “Change h1 color from red to blue”.
+
+GitHub indique les modifications effectuées par un code couleur. Les lignes en rouge indiquent une suppression, et les lignes vertes une addition. Ici on voit bien qu’il y eu un changement sur une ligne, l’attribut red a été supprimé, et a été remplacé par blue.
